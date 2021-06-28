@@ -1,5 +1,5 @@
-# StrongDDOS
-StrongDDOS - very powerfull strong script for Dos or DDOS atacks for Termux!
+# StrongDDOS Termux
+StrongDDOS-Ter - very powerfull strong script for Dos or DDOS atacks for Termux!
 
 How to install:
  1) apt install git
